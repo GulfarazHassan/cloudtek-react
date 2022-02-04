@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.item-image {
+  width: 20%;
+  object-fit: contain;
+}
+
+.item-image-detail {
+  width: 50%;
+  object-fit: contain;
+}
+
+.card-style {
+  height: 11rem;
+}
+
+.link-sty {
+  text-decoration: none;
+}
+
+.app-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1rem;
+  color: #23282c;
+  background: #f0f3f5;
+  border-top: 1px solid #c8ced3;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  height: 3rem;
+}
