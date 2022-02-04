@@ -1,1 +1,1 @@
-export const API_HOST = '54.183.205.140:8080';
+export const API_HOST = 'localhost:8080';
